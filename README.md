@@ -14,11 +14,6 @@
 </p>
 </p>
 
-- 👀 I’m interested in Maching learning and AI
-- 🌱 I’m currently learning Mobile Application
-- 💞️ I’m looking to collaborate on Maching learning and AI research
-- 📫 Email me at: noweshed@gmail.com
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
